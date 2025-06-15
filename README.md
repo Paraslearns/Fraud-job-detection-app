@@ -38,3 +38,9 @@ Many online job listings are scams. This project helps detect such fraudulent jo
    ```bash
    git clone <https://github.com/Paraslearns/Fraud-job-detection-app.git>
    cd <Fraud-job-detection-app>
+
+---
+
+## 🔗 Demo Video Link
+-  https://drive.google.com/file/d/1H1hvsaN5A8QXLzDPxmSlUwbP4Jj-n4EM/view?usp=drive_link
+   
